@@ -7,10 +7,10 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lMWJwdnljandycDlsamxndXp1cm9zM2VwbHJvMmRvaGtqZnh6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" width="300" alt="Hacking GIF" />
 
 <p>
-  <a href="https://www.linkedin.com/in/youssefeltoor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youssef.m.eltoor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/201143028838"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://github.com/Youssef-Mahmoud-Eltoor"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-elfayed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdullahelfayed901@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/201011395464"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/abdullah806"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Youssef-Mahmoud-Eltoor&color=0077B5&style=flat-square&label=PROFILE+VIEWS)
