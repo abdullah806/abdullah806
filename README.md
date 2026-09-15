@@ -60,17 +60,17 @@ I enjoy turning raw data into reliable, structured, and useful information throu
 ### 📊 Aether Environmental Intelligence Platform
 An end-to-end data pipeline built to monitor and analyze air quality metrics.
 * **Tech Stack:** Python, SQL Server, SSIS, Power BI
-* 🔗 **Repository:** [Aether Project Link](https://github.com/Youssef-Mahmoud-Eltoor)
+* 🔗 **Repository:** [Aether Project Link](https://github.com/abdullah806)
 
 ### 📚 Library Management System
 An 8-table relational database architecture with an interactive analytical dashboard.
 * **Tech Stack:** SQL Server, Power Query, Power BI, DAX
-* 🔗 **Repository:** [Library System Link](https://github.com/Youssef-Mahmoud-Eltoor)
+* 🔗 **Repository:** [Library System Link](https://github.com/abdullah806)
 
 ### 📈 Big Data & Medallion Pipeline Projects
 A collection of end-to-end distributed data pipelines built using Bronze, Silver, and Gold Lakehouse architectures.
 * **Tech Stack:** Databricks, PySpark, HDFS, Hive, PostgreSQL
-* 🔗 **Repository:** [Big Data Projects Link](https://github.com/Youssef-Mahmoud-Eltoor)
+* 🔗 **Repository:** [Big Data Projects Link](https://github.com/abdullah806)
 
 ---
 
